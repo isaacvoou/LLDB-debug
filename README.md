@@ -1,1 +1,1 @@
-# debugger-for-C-in-VSCodium
+Just download and move them to the directory (.vscode)
